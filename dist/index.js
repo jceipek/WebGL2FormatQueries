@@ -7325,4 +7325,4 @@ react_dom_default.render(/* @__PURE__ */ react.createElement(react.StrictMode, n
 if (void 0) {
   (void 0).accept();
 }
-//# sourceMappingURL=http://jceipek.com/WebGL2FormatQueries//dist//index.js.map
+//# sourceMappingURL=https://jceipek.com/WebGL2FormatQueries//dist//index.js.map
